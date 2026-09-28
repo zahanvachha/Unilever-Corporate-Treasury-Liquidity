@@ -41,6 +41,14 @@ These are model outputs under the assumptions described in the project report.
 
 ---
 
+## Project Files
+
+- [Read the full project report](./Unilever_Corporate_Treasury_Liquidity_Project.pdf)
+- [Open the Excel treasury model](./Unilever_Treasury_Liquidity_Model.xlsx)
+- [Open the Python results workbook](./Unilever_Treasury_Python_Results.xlsx)
+
+---
+
 ## What Was Built
 
 ### 1. Historical Financial Model
@@ -150,29 +158,9 @@ The Python validation matched the Excel model across **842 tested items**, with 
 
 ```text
 ├── README.md
-│
-├── report/
-│   └── Unilever_Corporate_Treasury_Liquidity_Project.pdf
-│
-├── excel/
-│   └── Unilever_Treasury_Liquidity_Model.xlsx
-│
-├── python/
-│   ├── run_all.py
-│   ├── treasury_engine.py
-│   ├── config.py
-│   ├── 01_import_excel.py
-│   ├── 02_validate_excel.py
-│   ├── 03_reproduce_excel.py
-│   ├── 04_buffer_analysis.py
-│   ├── 05_sensitivity.py
-│   ├── 06_robustness.py
-│   └── 07_outputs.py
-│
-├── results/
-│   └── Unilever_Treasury_Python_Results.xlsx
-│
-└── charts/
-    ├── liquidity_profile.png
-    ├── buffer_vs_cost.png
-    └── buffer_sensitivity.png
+├── Unilever_Corporate_Treasury_Liquidity_Project.pdf
+├── Unilever_Treasury_Liquidity_Model.xlsx
+├── Unilever_Treasury_Python_Results.xlsx
+├── liquidity_profile.png
+├── buffer_vs_cost.png
+└── buffer_sensitivity.png
