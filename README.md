@@ -124,15 +124,15 @@ The Python validation matched the Excel model across **842 tested items**, with 
 
 ### 13-Week Liquidity Profile
 
-![13-Week Liquidity Profile](./charts/liquidity_profile.png)
+![13-Week Liquidity Profile](./liquidity_profile.png)
 
 ### Liquidity Buffer vs. Treasury Cost
 
-![Liquidity Buffer vs. Treasury Cost](./charts/buffer_vs_cost.png)
+![Liquidity Buffer vs. Treasury Cost](./buffer_vs_cost.png)
 
 ### Liquidity Buffer Sensitivity
 
-![Liquidity Buffer Sensitivity](./charts/buffer_sensitivity.png)
+![Liquidity Buffer Sensitivity](./buffer_sensitivity.png)
 
 ---
 
