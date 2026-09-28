@@ -1,4 +1,3 @@
-# Unilever-Corporate-Treasury-Liquidity
 # Corporate Treasury & Liquidity Optimisation Engine — Unilever plc
 
 A public-data corporate treasury project analysing how a multinational can manage liquidity, funding, surplus cash and FX exposure under different operating scenarios.
